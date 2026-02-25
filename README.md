@@ -8,6 +8,9 @@ This folder contains the final Government-oriented Grievance Redressal Mechanism
 2. **Architecture and Flow Diagrams**
    [GRIEVANCE_REDRESSAL_ARCHITECTURE_AND_FLOWS.md](./GRIEVANCE_REDRESSAL_ARCHITECTURE_AND_FLOWS.md)
 
+**Google doc document may find in this link** (https://docs.google.com/document/d/16qn50s4zESlRF5jwRgycZGFbETFSCu-90_XPy_eKh74/edit?usp=sharing)
+
+
 ## Suggested Reading Order
 
 1. Start with the Technical Document for scope, governance, workflows, SLAs, compliance, and submission checklist.
