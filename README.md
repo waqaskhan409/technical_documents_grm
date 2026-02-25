@@ -8,7 +8,7 @@ This folder contains the final Government-oriented Grievance Redressal Mechanism
 2. **Architecture and Flow Diagrams**
    [GRIEVANCE_REDRESSAL_ARCHITECTURE_AND_FLOWS.md](./GRIEVANCE_REDRESSAL_ARCHITECTURE_AND_FLOWS.md)
 
-**Google doc document may find in this link** (https://docs.google.com/document/d/16qn50s4zESlRF5jwRgycZGFbETFSCu-90_XPy_eKh74/edit?usp=sharing)
+**Google doc document may find in this link** [GRM Technical Document](https://docs.google.com/document/d/16qn50s4zESlRF5jwRgycZGFbETFSCu-90_XPy_eKh74/edit?usp=sharing)
 
 
 ## Suggested Reading Order
